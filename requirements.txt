@@ -1,0 +1,9 @@
+ipykernel
+ipywidgets
+pandas
+matplotlib
+google-api-python-client
+transformers
+torch
+sklearn
+datasets

@@ -1,4 +1,5 @@
 # Estimating Ground Truth in a Low-labelled Data Regime: A Study of Racism Detection in Spanish
+[![DOI](https://zenodo.org/badge/487601308.svg)](https://zenodo.org/badge/latestdoi/487601308)
 
 This repository contains the code for the paper submitted to 1st Workshop on Novel Evaluation Approaches for Text Classification Systems on Social Media ([NEATCLasS](https://neatclass-workshop.github.io/)).
 

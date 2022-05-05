@@ -30,6 +30,7 @@ Then, you are ready to go for generating all the analysis outputs from our paper
   - ***labels_racism.csv***: Raw data.
   - ***labels_racism_aggregated.csv***: Training data with the aggregated labels (m_vote and w_m_vote) from notebook 1.
   - ***labels_racism_preproc.csv***: Raw data with message ids and numeric labels from notebook 1.
+  - ***ids_validation_set.json***: List of the id of the samples that belong to the validation set, used in Notebook 3.
 
 - **model**: Folder with performance results of models at different tresholds for predicting racist labels.
   - ***thr_analysis_w_m_vote.csv***: F1 scores using different thresholds of the weighted majority vote.

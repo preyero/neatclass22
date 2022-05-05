@@ -93,7 +93,7 @@ def load_transformer_model_from_tag(tag: str, epoch: int):
     cfg = transformer_models_by_tag[tag]
     regression = cfg['regression']
     # model_path = f'models/{tag}/epoch_{epoch}'
-    model_path = f'blind-reviews/racism-models-{tag.replace("_", "-")}-epoch-{epoch}'
+    model_path = f'MartinoMensio/racism-models-{tag.replace("_", "-")}-epoch-{epoch}'
     model = load_transformer_model_from_path(model_path, regression)
     return model
 

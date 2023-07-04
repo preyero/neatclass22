@@ -1,7 +1,7 @@
 # Estimating Ground Truth in a Low-labelled Data Regime: A Study of Racism Detection in Spanish
 [![DOI](https://zenodo.org/badge/487601308.svg)](https://zenodo.org/badge/latestdoi/487601308)
 
-This repository contains the code for the paper submitted to 1st Workshop on Novel Evaluation Approaches for Text Classification Systems on Social Media ([NEATCLasS](https://neatclass-workshop.github.io/)).
+This repository contains the code for the [paper](https://doi.org/10.36190/2022.94) submitted to 1st Workshop on Novel Evaluation Approaches for Text Classification Systems on Social Media ([NEATCLasS](https://neatclass-workshop.github.io/)).
 
 Our paper investigates the impact of different ground truth estimation methods on a model for racism detection. The experiments are organised as follows: 
 - The first notebook implements the ground truth estimates ([Ground Truth Estimation](./1_annotations_aggregation.ipynb)).
